@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alex, a QA Automation Engineer at [Quantori](https://quantori.com/).
+I'm Alex, a QA Automation Engineer.
 
 - 🔭 I’m currently working on a "secret project under NDA" 😄
 - 🌱 I’m currently learning React, backend frameworks and poking Rust
