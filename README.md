@@ -25,6 +25,7 @@ I contribute to open-source projects from time to time, but would love to do mor
 ### Learning
 ![](https://img.shields.io/badge/Backend-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 
 <!--
 **viraxslot/viraxslot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
